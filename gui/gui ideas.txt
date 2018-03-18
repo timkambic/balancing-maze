@@ -1,0 +1,13 @@
+INPUT:
+-brightness
+-start
+-analyse
+-pause
+-manual control ?
+-speed/max angles
+OUTPUT:
+-opencv camera img
+-brightness
+-fps
+-next target
+-motor position , pid?, angle of maze
